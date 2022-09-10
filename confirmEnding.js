@@ -11,13 +11,7 @@ Check if a string (first argument, str) ends with the given target string (secon
 This challenge can be solved with the .endsWith() method, which was introduced in ES2015. But for the purpose of this challenge, we would like you to use one of the JavaScript substring methods instead.
 */
 
-
-
-
-//adding comments which demonstrate my logical problem solving thought process
-// this function should receive a string (first argument) and a target string(second arg), and it should return a boolean, true, if the string ENDS WITH the target string. It should return a boolean, false in any other case where the string doesn't END WITH the target string.
-
-//TODO: i think i can use the indexOf(), or subStr(), or includes() methods... but note entirely sure which methods I can call.... I'm going to try an example at the end of the file.
+//adding comments to demonstrate logic process
 
 //TODO: more complexity here, but basically I know I need to define a function which accepts two strings...
 
